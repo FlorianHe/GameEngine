@@ -1,0 +1,12 @@
+<character name='Jean' sex='M' class='Paladin' level='12'>
+	<question id="Q1">Hi, what do you want?
+		<answer id="A11">Who are you?</answer>
+		<answer id="A12">Nothing, thanks.</answer>
+	</question>
+	<question id="Q2">My name is %name, a %class level %level
+		<answer id="A21">Thanks to answer me %name</answer>
+	</question>
+	<question ID="Q3">Bye
+		<answer id="A31">Bye</answer>
+	</question>
+</character>
